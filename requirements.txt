@@ -1,0 +1,3 @@
+pandas==1.1.4
+SQLAlchemy==1.3.20git add
+
