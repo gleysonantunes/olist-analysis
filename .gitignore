@@ -1,0 +1,10 @@
+*.vscode
+*.pyc
+*.db
+*.zip
+*.tar
+*.gz
+*.csv
+__pycache__
+teste.py
+upload_data_ext.py
